@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 Feel free to explore and extend the project further! Any contributions or suggestions are welcome.
 
 ## Contact
-For any queries, contact me at [harshiitg2025@gmail.com](mailto:harshiitg2025@gmail.com).
+For any queries, contact me at [21je0113@iitism.ac.in](mailto:21je0113@iitism.ac.in).
