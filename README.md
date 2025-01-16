@@ -4,7 +4,7 @@
 This project explores the power of data visualization using Plotnine and Plotly, two popular Python libraries. The aim is to effectively communicate insights from various datasets through informative and visually appealing charts and plots.
 
 ## Website
-You can explore the visualizations on the [Data Visualization Project Website](https://harshrajshs.github.io/Data_visualization/).
+You can explore the visualizations on the [Data Visualization Project Website]
 
 ![Website Screenshot](image.png)
 
