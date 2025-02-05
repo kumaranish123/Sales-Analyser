@@ -13,7 +13,7 @@ You can explore the visualizations on the [Data Visualization Project Website]
 - **Plotly:** An interactive visualization library that creates dynamic and web-based plots and dashboards.
 
 ## Project Structure
-The project is organized as follows:
+The project is organized as follows:https://kumaranish123.github.io/Sales-Analyser/
 
 ### Dataset
 The dataset used in this project can be found [here](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset).
